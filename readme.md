@@ -9,3 +9,10 @@ this is some installation instructions.
 npm install
 '''
 
+'''Run
+npm start
+'''
+
+'''test
+npm test
+'''
